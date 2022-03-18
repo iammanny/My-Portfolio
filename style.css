@@ -9,7 +9,7 @@ body {
   font-size: 14px;
   color: #1a2236;
 }
-  
+
 .nav {
   background-color: white;
   display: flex;
@@ -18,7 +18,7 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-  
+
 .logo {
   font-size: 18px;
   line-height: 20px;
@@ -27,7 +27,7 @@ body {
   color: rgba(96, 112, 255, 1);
   text-decoration: none;
 }
-  
+
 .headline {
   background: white url('assets/header-bg.png');
   background-size: 100% 90%;
@@ -36,21 +36,21 @@ body {
   padding: 120px 24px;
   border-bottom-left-radius: 150px;
 }
-  
+
 .headline-first-title {
   font-weight: 700;
   color: #172b4d;
   font-size: 40px;
   line-height: 52px;
 }
-  
+
 .headline-first-details {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   color: #344563;
 }
-  
+
 .headline-btn {
   color: #7f8cff;
   font-weight: 500;
@@ -61,7 +61,7 @@ body {
   padding: 0;
   margin: 6px 0;
 }
-  
+
 .social-medials {
   margin: 6px -6px;
   display: flex;
