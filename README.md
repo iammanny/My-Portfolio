@@ -2,14 +2,13 @@
 
 # My Portfolio 
 
-> Description the project.
-
+> My Portfolio is web showcase of the work i done and the products i have built.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- CSS
+- Github Workflow
 
 ## Live Demo (if available)
 
@@ -24,18 +23,9 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Clone repo
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+### Open index.html on the browser
 
 
 ## Authors
@@ -52,17 +42,11 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/iammanny/My-Portfolio/issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
