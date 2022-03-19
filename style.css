@@ -29,12 +29,11 @@ body {
 }
 
 .logo:hover {
-    color: black;
-
+  color: black;
 }
 
 .logo:active {
-    color:red;
+  color: red;
 }
 
 .headline {
