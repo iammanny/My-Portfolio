@@ -84,7 +84,7 @@ body {
   display: grid;
   grid-template-columns: 100%;
 }
- 
+
 .dropdown-menu .icon {
   width: 20px;
   height: 20px;
@@ -112,7 +112,7 @@ body {
   width: 100%;
   margin: 6px 0;
 }
- 
+
 .work-title {
   font-weight: 700;
   color: #172b4d;
