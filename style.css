@@ -28,6 +28,15 @@ body {
   text-decoration: none;
 }
 
+.logo:hover {
+    color: black;
+
+}
+
+.logo:active {
+    color:red;
+}
+
 .headline {
   background: white url('assets/header-bg.png');
   background-size: 100% 90%;

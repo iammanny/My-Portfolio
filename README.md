@@ -2,7 +2,12 @@
 
 # My Portfolio 
 
-> My Portfolio is web showcase of the work i done and the products i have built.
+> My Portfolio is web showcase of the work i have done and the products i have built.
+
+- Created mobile view of the header and the headline section for a portfolio website
+- Added a portfolio section to view projects and an about-me page
+- Added a background feel to make the site look good.
+
 
 ## Built With
 
@@ -10,23 +15,33 @@
 - CSS
 - Github Workflow
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Prerequisites
 
+Figma
+HTML
+CSS
 
-To get a local copy up and running follow these simple example steps.
+### Setup
 
-### Clone repo
+- Web browser
+- git
+- github
+- VsCode
+- Figma(Optional)
 
-### Open index.html on the browser
+### Install
 
+Get Figma design [here](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1)
+
+Install chrome web browser [here](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-x1uykgg9kaxqBkRBz4WkrBWMJeGxeQBJrMtA8t3lU22e1y883KQy8aAtMNEALw_wcB&gclsrc=aw.ds)
+
+### Usage
+
+- visit the github repository and clone [here](git@github.com:iammanny/My-Portfolio.git)
+
+- start editing using your local developmen environment.
 
 ## Authors
 
@@ -35,7 +50,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/iammanny)
 - Twitter: [@twitterhandle](https://twitter.com/mannyphilip)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emmanuel-a-philip-ikpe-a0b9823a)
-
 
 
 ## 🤝 Contributing
