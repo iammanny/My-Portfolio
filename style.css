@@ -84,7 +84,7 @@ body {
   display: grid;
   grid-template-columns: 100%;
 }
-  
+ 
 .dropdown-menu .icon {
   width: 20px;
   height: 20px;
@@ -98,7 +98,7 @@ body {
   padding: 114px 24px;
   display: grid;
   grid-template-columns: 100%;
- }
+}
 
 .work {
   background: #fff;
@@ -112,7 +112,7 @@ body {
   width: 100%;
   margin: 6px 0;
 }
-  
+ 
 .work-title {
   font-weight: 700;
   color: #172b4d;
@@ -165,32 +165,32 @@ body {
 .about-section .title,
 .about-section .details,
 .about-section .text-button { margin: 6px 0; }
- 
+
 .about-section .text-button {
   background: transparent;
   border: none;
   color: #7f8cff;
 }
- 
+
 .language-section { margin: 46px 0; }
- 
+
 .dropdown-menu {
   display: flex;
   justify-content: space-between;
   padding-bottom: 23px;
   align-items: center;
 }
- 
+
 .lang-text {
   font-size: 20px;
   line-height: 24px;
   font-weight: bold;
 }
-  
+
 .border-b { border-bottom: 1px solid #dfe1e6; }
- 
+
 .language { margin-top: 36px; }
- 
+
 .lang {
   display: flex;
   padding: 9px 12px;
@@ -199,6 +199,5 @@ body {
   border-radius: 8px;
   margin: 12px 2px;
 }
- 
+
 .lang img { margin-right: 16px; }
- 
