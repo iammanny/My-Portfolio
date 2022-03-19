@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #f7f7f9;
+  font-family: Poppins, "Courier New", Courier, monospace;
+  font-size: 14px;
+  color: #1a2236;
+}
+
+.nav {
+  background-color: white;
+  display: flex;
+  height: 48px;
+  padding: 14px 24px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 700;
+  margin: 12px 0;
+  color: rgba(96, 112, 255, 1);
+  text-decoration: none;
+}
+
+.logo:hover {
+  color: black;
+}
+
+.logo:active {
+  color: red;
+}
+
+.headline {
+  background: white url('assets/header-bg.png');
+  background-size: 100% 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 120px 24px;
+  border-bottom-left-radius: 150px;
+}
+
+.headline-first-title {
+  font-weight: 700;
+  color: #172b4d;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.headline-first-details {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.headline-btn {
+  color: #7f8cff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 6px 0;
+}
+
+.social-medials {
+  margin: 6px -6px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.social-medials li a { margin: 0 6px; }
