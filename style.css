@@ -200,3 +200,28 @@ body {
 }
 
 .lang img { margin-right: 16px; }
+
+
+.contact-form {
+  padding: 15px;
+}
+
+.text-field {
+  display: inline;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.text-field input {
+  font-family: Inter, Roboto, sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  line-height: 132%;
+  text-align: left;
+  color: #81818c;
+  height: 40px;
+  width: 100%;
+  margin-top: 25px;
+}
