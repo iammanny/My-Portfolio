@@ -200,6 +200,7 @@ body {
 }
 
 .lang img { margin-right: 16px; }
+
 .contact-section {
   background: #6070ff url("./assets/contact.png");
   display: flex;
@@ -221,7 +222,7 @@ body {
   padding: 15px 16px;
   border-radius: 8px;
   margin-bottom: 20px;
-  font-size: 25PX;
+  font-size: 25px;
   line-height: 20px;
 }
 
