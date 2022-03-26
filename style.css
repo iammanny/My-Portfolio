@@ -372,6 +372,15 @@ button:disabled {
     letter-spacing: 0.37px;
   }
 
+  .headline h1 {
+    transition: color 0.8s ease-in-out, box-shadow 0.8s ease-in-out;
+  }
+
+  .headline h1:hover {
+    color: rgb(42, 63, 155);
+    box-shadow: inset 400px 0 0 0 grey;;
+  }
+
   .header-primary-details {
     padding: 0 90px 5px 0;
     font-weight: 400;
