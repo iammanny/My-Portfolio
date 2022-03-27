@@ -7,6 +7,7 @@
 - Created mobile view of the header and the headline section for a portfolio website
 - Added a portfolio section to view projects and an about-me page
 - Added a background feel to make the site look good.
+- Added a contact form 
 
 
 
@@ -52,10 +53,15 @@ Install chrome web browser [here](https://www.google.com/chrome/?brand=CHBD&gcli
 - Twitter: [@twitterhandle](https://twitter.com/mannyphilip)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emmanuel-a-philip-ikpe-a0b9823a)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Pazzo97)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+I have done this project with Patrick 
 
 Feel free to check the [issues page](https://github.com/iammanny/My-Portfolio/issues/).
 
