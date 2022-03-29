@@ -8,6 +8,8 @@
 - Added a portfolio section to view projects and an about-me page
 - Added a background feel to make the site look good.
 
+# Deployment
+https://iammanny.github.io/My-Portfolio/
 
 
 ## Built With
