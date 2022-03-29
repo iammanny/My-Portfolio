@@ -56,6 +56,10 @@ body {
   font-size: 40px;
   line-height: 52px;
   margin-bottom: 12px;
+  animation-duration: 3s;
+  animation-name: heading;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
 }
 
 .header-primary-details {
